@@ -3,7 +3,8 @@
 <!--
 **col2023010501-gif/col2023010501-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to ge![461948060_8725284947515732_3987719937308451120_n](https://github.com/user-attachments/assets/99a8f70f-c28a-4e9d-9730-8c3a4e01ea92)
+t you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
